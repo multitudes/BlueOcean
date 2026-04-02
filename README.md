@@ -1,2 +1,2 @@
-# reddit-job-scraper
+# BlueOcean
 workshop prep
